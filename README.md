@@ -44,7 +44,7 @@ The action will comment on your PR with a table like this:
 | requests | 2.26.0 | 2.31.0 | ⚠️ Update Available |
 | pytest | 7.1.1 | 7.1.1 | ✅ Up to date |
 
-## Permissions
+## Permissions-arul
 
 The action requires the following permissions:
 - `pull-requests: write` - To comment on pull requests
@@ -55,3 +55,5 @@ These permissions are automatically configured in the workflow file.
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests to add support for more package managers or improve existing functionality. 
+
+Arul Prakash R
