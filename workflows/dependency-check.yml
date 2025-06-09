@@ -164,7 +164,7 @@ jobs:
                   comment += '|---------|----------------|----------------|--------|\n';
                   
                   for (const pkg of packages) {
-                    const status = pkg.current !== pkg.latest ? '⚠️ Update Available' : '✅ Up to date';
+                    const status = pkg.current !== pkg.latest ? '⚠️ Outdated' : '✅ Up to date';
                     comment += `| ${pkg.name} | ${pkg.current} | ${pkg.latest} | ${status} |\n`;
                   }
                   
