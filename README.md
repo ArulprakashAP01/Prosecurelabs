@@ -232,11 +232,3 @@ Open an issue if you:
 - Want to request a feature
 - Need help with setup
 
-
-lkdn
-ljlkj
-klkllkl
-ghfghfhfh
-sdas
-Sdlsjdjhjk
-fdgfdfg
