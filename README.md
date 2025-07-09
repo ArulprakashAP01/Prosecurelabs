@@ -9,7 +9,7 @@ sjdh
   - NPM (package.json)
   - Python (requirements.txt)
 - 💬 Creates detailed reports as:
-cj
+cjhgfgh
   - Pull request comments
   - Issues (for direct pushes to main)
 - ⚡ Runs automatically on PRs and pushes
