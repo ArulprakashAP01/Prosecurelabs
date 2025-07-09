@@ -8,6 +8,7 @@ hggfgh
 sh
 d
 sdh
+sksdj
 - 🔍 Automatically detects outdated dependencies
 - 📦 Supports multiple package managers:
   - NPM (package.json)
